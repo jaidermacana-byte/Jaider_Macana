@@ -10,7 +10,7 @@ function resaltarMenuActivo() {
   console.log("Resaltando el enlace activo del menu");
 }
 
-document.addEventListener("DOMContentLoaded", resaltarMenuActivo);
+document.addEventListener("DOMContentLoaded", saludarUnaVez);
 
 let yaSaludo = false;
 function saludarUnaVez() {
